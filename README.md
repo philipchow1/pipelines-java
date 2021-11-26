@@ -1,3 +1,4 @@
+[![Build Status](https://rssb.visualstudio.com/RssbPlatform/_apis/build/status/philipchow1.pipelines-java?branchName=master)](https://rssb.visualstudio.com/RssbPlatform/_build/latest?definitionId=40&branchName=master)
 
 # Contributing
 
